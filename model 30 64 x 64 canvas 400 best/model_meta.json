@@ -1,0 +1,1 @@
+{"inputUnits":[64,64,4],"outputUnits":2,"inputs":{"image":{"dtype":"array","min":0,"max":255}},"outputs":{"label":{"dtype":"string","min":0,"max":1,"uniqueValues":["Tami","A Random Cat"],"legend":{"Tami":[1,0],"A Random Cat":[0,1]}}},"isNormalized":true}
